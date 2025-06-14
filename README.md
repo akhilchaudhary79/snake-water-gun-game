@@ -12,8 +12,7 @@ Same choices → It's a draw.
 
 🧠 Logic Mapping
 python
-Copy
-Edit
+
 1   => Snake
 -1  => Water
 0   => Gun
@@ -21,10 +20,9 @@ Edit
 No external dependencies. Only uses Python's built-in random module.
 
 ▶️ How to Run
-bash
-Copy
-Edit
+
 python project1.py
+
 📋 How to Play
 Run the script.
 
@@ -41,9 +39,7 @@ The computer makes a random choice.
 Result is displayed: Win, Lose, or Draw.
 
 🧪 Example
-text
-Copy
-Edit
+
 Enter your choice (s for Snake, w for Water, g for Gun): s
 You chose Snake
 Computer chose Gun
@@ -52,11 +48,10 @@ You Lose
 Invalid input will show a warning and exit the game.
 
 📁 File Structure
-bash
-Copy
-Edit
+
 project1.py         # Main Python file
 README.md           # Project documentation
+
 ✅ Improvements You Can Add
 Score tracking
 
