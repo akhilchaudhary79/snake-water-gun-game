@@ -1,4 +1,4 @@
-🐍 Snake Water Gun Game
+🐍 Snake Water Gun Game.
 A simple Python console game where you play Snake-Water-Gun against the computer. This is a fun variation of the classic Rock-Paper-Scissors game.
 
 🎮 Game Rules
